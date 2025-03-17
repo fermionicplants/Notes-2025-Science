@@ -1,0 +1,4 @@
+Time resolved LIF - Laser Induced Flourescence using Argon atoms
+NV center Magnetometer at sub mTesla fields
+NV center Diamond synthesis and comparison with industry diamond fields
+Nuclear Reactor Creation
