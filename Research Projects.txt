@@ -5,3 +5,7 @@
 
 - NV center Non linear optics
 - Other Vacancy Fabrications using Silane, Phosphine and Boron doping
+
+-Avalanche Photodiode
+- Oscilloscope with Time based data logging
+
